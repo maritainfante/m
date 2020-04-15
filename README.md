@@ -1,2 +1,2 @@
-# clase-06
-clase 6
+# clase-02
+Clase numero dos, DNO037
